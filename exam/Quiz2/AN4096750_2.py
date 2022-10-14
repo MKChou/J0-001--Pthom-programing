@@ -4,6 +4,7 @@ def fib(n):
     return n
 
 a=[]
+
 sum=0
 for i in range(21):                 
     #print(fib(i), end = ',')
